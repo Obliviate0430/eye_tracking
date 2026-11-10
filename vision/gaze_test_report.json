@@ -1,0 +1,206 @@
+{
+  "created": "2026-11-04 17:12:12",
+  "n_trials": 12,
+  "n_valid": 11,
+  "accuracy_pct": 9.090909090909092,
+  "mean_pos_err_px": 377.0813999261352,
+  "median_pos_err_px": 370.7603218221957,
+  "mean_pos_err_pct": 19.639656246152875,
+  "confusion": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "per_cell_accuracy": {
+    "0": 0.0,
+    "1": 0.0,
+    "3": 0.0,
+    "4": 0.0,
+    "5": 100.0,
+    "6": 0.0,
+    "7": 0.0
+  },
+  "trials": [
+    {
+      "look": 1,
+      "pred": 4,
+      "verdict": "miss",
+      "mean_err_px": 442.5022118709323,
+      "frames": 20
+    },
+    {
+      "look": 4,
+      "pred": 3,
+      "verdict": "miss",
+      "mean_err_px": 370.7603218221957,
+      "frames": 7
+    },
+    {
+      "look": 3,
+      "pred": null,
+      "verdict": "nodata",
+      "mean_err_px": null,
+      "frames": 2
+    },
+    {
+      "look": 7,
+      "pred": 4,
+      "verdict": "miss",
+      "mean_err_px": 426.12583951198235,
+      "frames": 18
+    },
+    {
+      "look": 0,
+      "pred": 4,
+      "verdict": "miss",
+      "mean_err_px": 456.345829313386,
+      "frames": 20
+    },
+    {
+      "look": 3,
+      "pred": 4,
+      "verdict": "miss",
+      "mean_err_px": 353.53962513512545,
+      "frames": 20
+    },
+    {
+      "look": 7,
+      "pred": 4,
+      "verdict": "miss",
+      "mean_err_px": 346.874804798724,
+      "frames": 21
+    },
+    {
+      "look": 6,
+      "pred": 4,
+      "verdict": "miss",
+      "mean_err_px": 467.38940767522087,
+      "frames": 21
+    },
+    {
+      "look": 5,
+      "pred": 5,
+      "verdict": "hit",
+      "mean_err_px": 211.66828798640603,
+      "frames": 21
+    },
+    {
+      "look": 3,
+      "pred": 4,
+      "verdict": "miss",
+      "mean_err_px": 326.79110173325,
+      "frames": 21
+    },
+    {
+      "look": 6,
+      "pred": 3,
+      "verdict": "miss",
+      "mean_err_px": 333.5900769895232,
+      "frames": 21
+    },
+    {
+      "look": 1,
+      "pred": 4,
+      "verdict": "miss",
+      "mean_err_px": 412.3078923507406,
+      "frames": 22
+    }
+  ],
+  "fps": 12.368466575100403
+}
